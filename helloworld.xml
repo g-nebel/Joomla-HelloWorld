@@ -44,5 +44,9 @@
 			<folder>sql</folder>
 		</files>
 	</administration>
-
+	<!-- Update Server Section -->
+	<!-- Update Server for single extension's manifest  -->
+	<updateservers>
+		<server type="extension" name="Hello World Updates">https://raw.githubusercontent.com/g-nebel/Joomla-HelloWorld/update-server/com_helloworld.xml</server>
+	</updateservers>
 </extension>
