@@ -23,7 +23,7 @@ Contains all updates.
 For every new release a  _\<update\>_ section for the release must be added.
 In these links are changed
 
-\<infourl title="Hello World"\>https://raw.githubusercontent.com/g-nebel/Joomla-HelloWorld/**_{current release tag}_**/released.txt\</infourl\>
+\<infourl title="Hello World"\>https://raw.githubusercontent.com/g-nebel/Joomla-HelloWorld/**_{current release tag}_**/release.txt\</infourl\>
 
 \<downloadurl type="full" format="zip"\>https://github.com/g-nebel/Joomla-HelloWorld/archive/**_{current release tag}_**.zip\</downloadurl\>
 
